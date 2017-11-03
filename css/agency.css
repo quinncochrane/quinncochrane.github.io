@@ -124,7 +124,7 @@ header.masthead {
   -o-background-size: cover;
   background-size: cover; }
   header.masthead .intro-text {
-    padding-top: 150px;
+    padding-top: 100px;
     padding-bottom: 100px; }
     header.masthead .intro-text .intro-lead-in {
       font-size: 22px;
@@ -136,7 +136,7 @@ header.masthead {
       font-size: 25px;
       font-weight: 700;
       line-height: 25px;
-      margin-bottom: 25px;
+      margin-bottom: 150px;
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
       text-transform: uppercase; }
 
